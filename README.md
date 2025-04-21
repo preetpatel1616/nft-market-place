@@ -42,6 +42,14 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔧 Features
+
+- 🖼️ Browse a collection of superhero-themed NFTs  
+- 📝 Request your own custom NFT artwork via a form  
+- 🔐 Connect and authenticate via Metamask  
+- 📤 Interact with deployed Solidity smart contracts  
+- 🎨 Unique visuals for each artwork  
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -116,6 +124,8 @@ Don't forget to give the project a star!
 
 <!-- CONTACT -->
 ## Contact
+
+This project was built as part of our Bachelor's minor project at PDEU.
 
 `Linkedin`
 
